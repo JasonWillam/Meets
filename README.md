@@ -1,4 +1,4 @@
-# Dirk Xu, from IIAIAO & DAO, NEU,China
+# Dirk Xu, from IIAIAO(institute of industrial AI and optimization) & DAO, NEU,China
 
 # paper, https://ieeexplore.ieee.org/document/9727579/
 
