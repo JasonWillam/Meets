@@ -1,11 +1,10 @@
-# Meets
-ETO Meets Scheduling: Learning Key Knowledge from Single-Objective Problems to Multi-Objective Problem
-
-
 # Dirk Xu, from IIAIAO & DAO, NEU,China
 
 # paper, https://ieeexplore.ieee.org/document/9727579/
 
+# Evolutionary Transfer Optimization Meets Scheduling  :  
+#                              Learning Key Knowledge from Single-Objective Problem 
+#                                                                           to  Multiple-Objective Problem 
 
 
 
